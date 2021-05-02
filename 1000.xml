@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="pagetitle_picker_Gactive" value="false" />
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="statuschat" value="false" />
+    <boolean name="my_statusd" value="false" />
+    <boolean name="imsHideVStatus" value="false" />
+    <int name="pagetitle_sel_picker" value="-5043188" />
+    <int name="ModFabNormalColor" value="-4124913" />
+    <boolean name="hide_action_l" value="false" />
+    <boolean name="hide_action_m" value="false" />
+    <boolean name="Audio_sensor" value="true" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="Hide_div" value="false" />
+    <boolean name="imsHideRStatus" value="false" />
+    <int name="ModChatColor" value="-12647934" />
+    <boolean name="isSwipeEnabled" value="false" />
+    <int name="tabadgeBKColor" value="-3862512" />
+    <boolean name="tabadgeTextColor_Gactive" value="false" />
+    <boolean name="home_imgBK" value="true" />
+    <boolean name="tabindicator_Gactive" value="false" />
+    <int name="statuses_bar_text_picker" value="-4016640" />
+    <boolean name="NameProf" value="false" />
+    <string name="chats_play_contact_online_tone"></string>
+    <boolean name="custom_wall_profilepic" value="true" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="true" />
+    <boolean name="enable_ig_stories" value="true" />
+    <boolean name="onlinechat" value="false" />
+    <int name="tabadgeTextColor" value="-7076346" />
+    <boolean name="enable_fivminstatus" value="true" />
+    <string name="ConvoEntry">22</string>
+    <string name="ui_home_styleV2">0</string>
+    <int name="ModConColor" value="-16449346" />
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <boolean name="pagetitle_sel_picker_Gactive" value="false" />
+    <string name="tick_style">rcios11</string>
+    <boolean name="yo_want_airplanemode" value="true" />
+    <boolean name="hide_fab" value="false" />
+    <int name="ModChatColor_GC" value="-16777216" />
+    <boolean name="chat_contactpicV2" value="false" />
+    <boolean name="yo_want_nightmode" value="true" />
+    <int name="ModConColor_GCDir" value="0" />
+    <int name="tabindicator" value="-16404990" />
+    <boolean name="imsHideMStatus" value="false" />
+    <boolean name="chat_mypicV2" value="false" />
+    <int name="ModConTextColor" value="-15792634" />
+    <boolean name="ModConTextColor_Gactive" value="false" />
+    <boolean name="group_mypicV2" value="false" />
+    <boolean name="my_name" value="true" />
+    <int name="pic_chat_size_pickerV2" value="40" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="pagetitle_picker" value="-10440433" />
+    <boolean name="custom_wall" value="true" />
+    <boolean name="elapsed_time" value="false" />
+    <boolean name="ModOnlineColor_Gactive" value="false" />
+    <boolean name="yo_hideinfo" value="true" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="true" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="ModFabNormalColor_Gactive" value="false" />
+    <boolean name="hide_action_a" value="false" />
+    <boolean name="Audio_ears" value="true" />
+    <boolean name="hide_action_b" value="false" />
+    <boolean name="tabadgeBKColor_Gactive" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <string name="bubble_style">bubble</string>
+    <boolean name="ModChatColor_Gactive" value="true" />
+    <boolean name="group_participants_picV2" value="true" />
+    <boolean name="enable_grp_separation" value="false" />
+    <string name="HomeEntry">wamod</string>
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="true" />
+    <boolean name="statuses_bar_text_picker_Gactive" value="false" />
+    <string name="pic_startlocation">1</string>
+    <int name="ModChatColor_GCDir" value="0" />
+    <boolean name="pic_inside" value="false" />
+    <int name="main_text" value="16" />
+    <int name="ModConColor_GC" value="-16777216" />
+    <boolean name="ModConColor_Gactive" value="true" />
+    <int name="text_size_pick" value="16" />
+    <int name="ModOnlineColor" value="-15026176" />
+</map>
